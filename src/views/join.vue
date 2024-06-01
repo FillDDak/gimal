@@ -20,7 +20,7 @@
         </v-row>
       </v-container>
     </v-main>
-    <!-- 모달 창 -->
+    <!-- 오류 모달 창 -->
     <v-dialog v-model="showErrorDialog" max-width="300">
       <v-card>
         <v-card-title>오류</v-card-title>
